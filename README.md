@@ -7,8 +7,7 @@ I'm a 15-year-old self-taught programmer with big dreams.
 
 ### 🚀 What I’m Working On
 
-- A chess game in C++
-- A music player app (Project Alpha 🎵)
+- mini terminal
 - Learning more about hardware + software development
 
 ---
