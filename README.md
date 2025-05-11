@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Luth!
 
 I'm a 15-year-old self-taught programmer with big dreams.  
-💻 I work mostly with **C++**, play around with **JavaScript**, and love building stuff from scratch.
+💻 I work mostly with **C++**, play around with **JavaScript**, **Python**, and love building stuff from scratch.
 
 ---
 
