@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hey, I'm Luth!
 
-<!--
-**lutherhistory/lutherhistory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 15-year-old self-taught programmer with big dreams.  
+💻 I work mostly with **C++**, play around with **JavaScript**, and love building stuff from scratch.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I’m Working On
+
+- A chess game in C++
+- A music player app (Project Alpha 🎵)
+- Learning more about hardware + software development
+
+---
+
+### 🧠 Things I’m Learning
+
+- Object-Oriented Programming (OOP) in C++
+- Web dev with HTML/CSS/JS
+- How to be a better problem solver
+
+---
+
+### 🛠️ Tools I Use
+
+- 🖥️ Linux
+- 🧠 VS Code
+- 🧪 Git & GitHub
+- ❤️ My brain
+
+---
+
+### 🌟 Fun Fact
+
+> Sometimes I think I’m stupid, but then I write code and go *“hey, this actually works.”*
+
+---
+
+### 📫 Connect With Me
+
+You can’t yet... but one day there’ll be a cool website or contact link here 😎
+
