@@ -39,4 +39,5 @@ I'm a 15-year-old self-taught programmer with big dreams.
 ### 📫 Connect With Me
 
 You can’t yet... but one day there’ll be a cool website or contact link here 😎
+https://t.me/lutherhistory
 
