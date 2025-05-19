@@ -14,7 +14,7 @@ I'm a 15-year-old self-taught programmer with big dreams.
 
 ### 🧠 Things I’m Learning
 
-- Object-Oriented Programming (OOP) in C++
+- Polymorphism in C++
 - Web dev with HTML/CSS/JS
 - How to be a better problem solver
 
@@ -23,7 +23,7 @@ I'm a 15-year-old self-taught programmer with big dreams.
 ### 🛠️ Tools I Use
 
 - 🖥️ Linux
-- 🧠 VS Code
+- 🧠 Sublime Text, Zed, VS Code
 - 🧪 Git & GitHub
 - ❤️ My brain
 
