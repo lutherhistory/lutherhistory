@@ -15,7 +15,7 @@ I'm a 15-year-old self-taught programmer with big dreams.
 ### 🧠 Things I’m Learning
 
 - Polymorphism in C++
-- Web dev with HTML/CSS/JS
+- Game Library(Raylib, Godot and SDL2)
 - How to be a better problem solver
 
 ---
