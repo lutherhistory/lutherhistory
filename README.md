@@ -25,6 +25,7 @@ I'm a 15-year-old self-taught programmer with big dreams.
 - 🖥️ Linux
 - 🧠 Sublime Text, Zed, VS Code
 - 🧪 Git & GitHub
+-  Math's Logics
 - ❤️ My brain
 
 ---
