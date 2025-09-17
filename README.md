@@ -1,44 +1,31 @@
-# 👋 Hey, I'm Luth!
+# 👋 Yo, I’m Luth!
 
-I'm a 15-year-old self-taught programmer with big dreams.  
-💻 I work mostly with **C++**, play around with **JavaScript**, **Python**, **HTML**, and **CSS**.
-
----
-
-### 🚀 What I’m Working On
-
-- mini terminal
-- Learning more about hardware + software development
+I’m a 15-year-old self-taught programmer chasing big dreams.  
+💻 My main weapon is **C++**, but I also mess around with **JavaScript**, **Python**, **HTML**, and **CSS** for fun.
 
 ---
 
-### 🧠 Things I’m Learning
-
-- Polymorphism in C++
-- Game Library(Raylib, Godot and SDL2)
-- How to be a better problem solver
-
----
-
-### 🛠️ Tools I Use
-
-- 🖥️ Linux
-- 🧠 Sublime Text, Zed, VS Code
-- 🧪 Git & GitHub
--  Math's Logics
-- ❤️ My brain
+## 🧠 What I’m Learning
+- Polymorphism in C++  
+- Game dev with **Raylib**, **Godot**, and **SDL2**  
+- Sharpening my problem-solving skills  
 
 ---
 
-### 🌟 Fun Fact
-
-> Sometimes I think I’m stupid, but then I write code and go *“hey, this actually works.”*
+## 🛠️ My Toolbox
+- 🖥️ Linux gang  
+- 🧠 Editors: Sublime Text, Zed, VS Code  
+- 🧪 Git & GitHub  
+- ➗ Math logic & critical thinking  
+- ❤️ My brain (best tool ever)  
 
 ---
 
-### 📫 Connect With Me
+## 🌟 Fun Fact
+> Sometimes I feel dumb… then I hit run, and the code works. That’s my superpower. ⚡
 
-You can’t yet... but one day there’ll be a cool website or contact link here 😎
+---
 
-
-- Telegram => https://t.me/lutherhistory
+## 📫 Connect With Me
+No fancy website yet, but one day 😉  
+- Telegram 👉 [@lutherhistory](https://t.me/lutherhistory)
