@@ -1,7 +1,6 @@
 # 👋 Yo, I’m Luth!
 
-I’m a 15-year-old self-taught programmer chasing big dreams.  
-💻 My main weapon is **C++**, but I also mess around with **JavaScript**, **Python**, **HTML**, and **CSS** for fun.
+💻 My main weapon is **C++**, want to fight with me :)
 
 ---
 
