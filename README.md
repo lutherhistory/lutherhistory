@@ -1,35 +1,72 @@
-# 👋 Hi, I'm Luth!
+<div align="center">
+  <img src="https://i.pinimg.com/736x/25/1f/49/251f49b9061e3ef0b3a862135258f151.jpg" alt="Profile Banner" width="100%" />
+  
+  <br/>
 
-> **"Sometimes I feel dumb… then I hit run, and the code works. That’s my superpower. ⚡"**
+  <h1> ⚡ LUTH | System.Architect </h1>
 
-I’m a C++ enthusiast focused on low-level performance, game development, and sharpening my logical thinking.
+  > **"Sometimes I feel dumb… then I hit run, and the code works. That’s my superpower."**
 
----
+  <img src="https://github.com/lutherhistory.png" alt="Luther History" width="150" height="150" style="border-radius: 50%; border: 3px solid #00599C;" />
 
-## 🧠 What I’m Learning
-* **Advanced C++**: Deep diving into Polymorphism and OOP design.
-* **Game Dev**: Building with **Raylib**, **Godot**, and **SDL2**.
-* **Problem Solving**: Improving algorithmic efficiency and logic.
-
----
-
-## 🛠️ My Toolbox
-
-| Category | Tools |
-| :--- | :--- |
-| **Main Weapon** | `C++` ⚔️ |
-| **Operating System** | Linux 🐧 |
-| **Editors** | Zed, Sublime Text, VS Code |
-| **Version Control** | Git & GitHub |
-| **Core Skills** | Math Logic & Critical Thinking |
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=lutherhistory&label=System%20Accesses&color=00599C&style=flat-square" alt="Visitors" />
+  </p>
+</div>
 
 ---
 
-## 📫 Connect With Me
-* **Telegram**: [@lutherhistory](https://t.me/lutherhistory)
-* **Web**: *Fancy website coming soon...* 😉
+### 🛰️ Mission Log
+I'm a student developer diving deep into the silicon. I spend my time wrestling with pointers in **C++**, exploring memory safety in **Rust**, and building logic from the ground up.
+
+- 🔭 **Current Project:** [**Awesome Chess**](https://github.com/lutherhistory/Awesome-Chess) – *Implementing game logic without losing my mind.*
+- 🌱 **Learning Path:** Advanced C++, Rust Borrow Checker, and Game Engine Architecture.
+- 🐧 **Environment:** Living inside the Linux terminal.
 
 ---
 
-### 🌟 Fun Fact
-I believe my brain is my best tool—though it needs a lot of coffee to compile properly.
+### 🛠️ The Tech Stack
+
+**Languages & Core**
+<p align="left">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,c,rust,py,linux,git" />
+</a>
+</p>
+
+**Data & Engines**
+<p align="left">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,godot,gamemaker" />
+</a>
+</p>
+
+---
+
+### 📊 System Diagnostics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutherhistory&layout=compact&theme=vision-friendly-dark&langs_count=10" alt="Top Langs" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lutherhistory&show_icons=true&theme=vision-friendly-dark&count_private=true" alt="GitHub Stats" />
+</div>
+
+---
+
+### 🌐 Uplink
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lutherhistory)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@code_by_luth)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lutherhistory)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 "Code is like humor. When you have to explain it, it's bad." 
+
+*⚡ Do you know what `this` is? Don't know? Yeah, me neither. ⚡*
+
+</div>
