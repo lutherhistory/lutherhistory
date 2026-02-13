@@ -1,21 +1,3 @@
-<div align="center">
-  <img src="https://i.pinimg.com/736x/25/1f/49/251f49b9061e3ef0b3a862135258f151.jpg" alt="Profile Banner" width="100%" />
-  
-  <br/>
-
-  <h1> ⚡ LUTH | System.Architect </h1>
-
-  > **"Sometimes I feel dumb… then I hit run, and the code works. That’s my superpower."**
-
-  <img src="https://github.com/lutherhistory.png" alt="Luther History" width="150" height="150" style="border-radius: 50%; border: 3px solid #00599C;" />
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=lutherhistory&label=System%20Accesses&color=00599C&style=flat-square" alt="Visitors" />
-  </p>
-</div>
-
----
-
 ### 🛰️ Mission Log
 I'm a student developer diving deep into the silicon. I spend my time wrestling with pointers in **C++**, exploring memory safety in **Rust**, and building logic from the ground up.
 
