@@ -54,13 +54,19 @@ The focus is on character growth, leveling mechanics, and strategic improvement,
 A math application designed to strengthen problem-solving skills and numerical understanding.
 
 ---
+### 🧰 Tech Stack
 
-## 🧰 Tech Stack
+**Languages**  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-* **Languages:** C, C++, Rust (learning)
-* **Frameworks:** Qt, Raylib
-* **Tools:** Git, Linux, GCC/Clang
-* **Learning:** OOP design, system architecture, algorithms
+**Frameworks / Libraries**  
+![Raylib](https://img.shields.io/badge/Raylib-FF6600?style=for-the-badge&logo=raylib&logoColor=white)
+
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GCC](https://img.shields.io/badge/GCC-FF7F00?style=for-the-badge&logo=gcc&logoColor=white)
 
 ---
 
