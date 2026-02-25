@@ -1,31 +1,91 @@
-# 👨‍💻 Hi, I'm Luth
+# 👋 Hi, I'm Luth (Luther History)
 
-I am a software developer focused on high-performance computing and systems programming. I enjoy building efficient tools and exploring the intersection of game engines and low-level logic.
+🚀 **Programmer • Future Engineer • Builder of Ideas**
 
----
-
-### 🛠️ Tech Stack & Tools
-
-| Category | Tools |
-| :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) |
-| **Game Dev** | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white) |
-| **OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+I’m a self-taught developer passionate about turning curiosity into real software.
+My main focus is **C++ programming**, system thinking, and building projects that help me deeply understand how computers actually work — from algorithms to GUI applications and hardware interaction.
 
 ---
 
-### 🎯 Current Focus
-- 🦀 **Rust & C:** Diving deeper into memory safety and systems architecture.
-- 🎮 **Godot:** Developing [Insert Project Name or "Game Mechanics"] using C++ GDExtensions.
+## 🧠 About Me
 
-### 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true" alt="Luth Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150" />
-</p>
+* 💻 Main language: **C++**
+* 🐧 Linux user who loves learning systems from the inside
+* ♟️ Chess enthusiast building my own chess software
+* 🧩 Problem-solver who prefers understanding concepts, not copying solutions
+* 🎯 Dream: Build a tech company creating software, hardware, and innovative digital products
 
 ---
 
-### 🌐 Connect with Me
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/code_by_luth)
+## 🔨 Current Focus
+
+* GUI development with **Qt & Raylib**
+* Game and engine architecture
+* Algorithms & data structures
+* Clean code and software design
+* Low-level programming mindset
+
+---
+
+## 🚧 Featured Projects
+
+### ♟️ Awesome Chess *(Currently in Development — C Language)*
+
+A GUI chess program written in C focused on engine logic, board visualization, and performance-driven design.
+
+### 🐾 Red Panda Debugger AI *(Planned — Rust)*
+
+A planned Rust-based clean-code assistant and debugging tool aimed at improving developer workflows.
+
+### 🖥️ Mini-Terminal *(C++)*
+
+A custom terminal project built to learn Linux commands, system interaction, and low-level programming concepts.
+
+### ⚔️ Jujutsu Kaisen Fan Made Game *(C++)*
+
+A fan-made experimental game project exploring gameplay systems and interactive mechanics.
+
+### 🚀 Level Up *(C++)*
+The focus is on character growth, leveling mechanics, and strategic improvement, giving a sense of achievement as the player advances.
+
+
+### 🧮 Math Tool *(C++)*
+
+A math application designed to strengthen problem-solving skills and numerical understanding.
+
+---
+
+## 🧰 Tech Stack
+
+* **Languages:** C, C++, Rust (learning)
+* **Frameworks:** Qt, Raylib
+* **Tools:** Git, Linux, GCC/Clang
+* **Learning:** OOP design, system architecture, algorithms
+
+---
+
+## 🧠 Skills Overview
+
+| Skill                                        | Level                 | Focus                                                 |
+| -------------------------------------------- | --------------------- | ----------------------------------------------------- |
+| **C++ (Software & Games)**                   | Intermediate–Advanced | OOP, GUI, architecture                                |
+| **Rust (Learning)**                          | Beginner              | Safe systems design                                   |
+| **Computer Science Fundamentals (Learning)** | Growing               | Data structures, memory, OS concepts, problem solving |
+
+---
+
+## 📈 Philosophy
+
+> Learn deeply. Build consistently. Improve every day.
+
+I believe real skill comes from building projects, breaking things, and understanding *why* they work.
+
+---
+
+## 📡 Follow & Watch
+[![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/code_by_luth)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@code_by_luth)
+
+---
+
+⭐ *Always learning. Always building.*
