@@ -59,10 +59,3 @@ I learn mainly by building projects to understand how software works internally 
 ## Philosophy
 
 Learn deeply. Build consistently.  
-
----
-
-## Links
-
-[Telegram](https://t.me/code_by_luth)  
-[YouTube](https://www.youtube.com/@code_by_luth)
