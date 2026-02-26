@@ -30,7 +30,7 @@ I learn mainly by building projects to understand how software works internally 
 | Awesome Engine | ![Awesome Engine](https://img.shields.io/badge/Planned-0%25-lightgrey) |
 | Jujutsu Kaisen Fan-Made Game | ![Jujutsu Kaisen Fan-Made Game](https://img.shields.io/badge/Planned-0%25-lightgrey) |
 | Level Up | ![Level Up](https://img.shields.io/badge/Planned-0%25-lightgrey) |
-| Mini-Terminal | ![Mini-Terminal](https://img.shields.io/badge/Planned-0%25-lightgrey) |
+| mini-Terminal | ![Mini-Terminal](https://img.shields.io/badge/Planned-0%25-lightgrey) |
 | Red Panda Debugger | ![Red Panda Debugger](https://img.shields.io/badge/Planned-0%25-lightgrey) |
 
 ---
